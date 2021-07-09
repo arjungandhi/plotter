@@ -15,6 +15,8 @@ coolors = "^0.1.2"
 nest-asyncio = "^1.5.1"
 colormath = "^3.0.0"
 tqdm = "^4.61.1"
+pypotrace = "^0.3"
+drawSvg = "^1.8.1"
 
 [tool.poetry.dev-dependencies]
 
